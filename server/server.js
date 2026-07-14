@@ -14,7 +14,13 @@ connectDB();
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+
+    origin: "https://learning-portal-react-node.vercel.app/",
+
+    credentials: true
+
+}));
 
 app.use(express.json());
 
