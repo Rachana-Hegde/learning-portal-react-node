@@ -312,6 +312,6 @@ This project demonstrates:
 https://github.com/Rachana-Hegde
 
 
-# 🌐 Repository
+# 🌐 Live App
 
-https://github.com/Rachana-Hegde/learning-portal
+https://learning-portal-react-node.vercel.app
